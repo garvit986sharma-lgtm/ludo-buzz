@@ -1,0 +1,8 @@
+{
+  "name": " Ludo Buzz",
+  "description": "Play classic Ludo Buzz with 2, 3, or 4 players on one device. Complete authentic rules, safe squares, dynamic animations, audio effects, and Ludo Offline mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
